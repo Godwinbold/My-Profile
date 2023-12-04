@@ -1,0 +1,92 @@
+﻿@model BookLibraryData.Models.ViewModels.AddBookRequest
+
+@{
+}
+ 
+<div class="input" style="margin-top: 150px">
+    <button type="text">New Release</button>
+    <button type="text">Most Popular</button>
+    <button type="text">Browser Genres</button>
+    <button type="text">Advances Search</button>
+</div>
+
+<div>
+	<a asp-controller="Category" asp-action="Index" class="w3-bar-item w3-button">Category</a>
+	<a asp-controller="Genre" asp-action="Index" class="w3-bar-item w3-button">Genre</a>
+	<a asp-controller="Book" asp-action="Index" class="w3-bar-item w3-button">Books</a>
+	<a asp-controller="Review" asp-action="Index" class="w3-bar-item w3-button">Review</a>
+</div>
+
+ <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="/image/Winning Again.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+        <p><b>Winning in the Digital Age</b></p><br>
+        <p><span class="w3-tag w3-light-grey">Available copies:</span> <b>15</b>. <span class="w3-tag w3-light-grey">Copies in library:</span> <b>20</b></p>
+        <p><span class="w3-tag w3-light-grey"> Genre:</span>  <b>business and economics</b><span class="w3-tag w3-light-grey">seasonal</span> ingredients.</p>
+        <p><span class="w3-tag w3-light-grey"> Author:</span> <b>Nintin Seth</b></p> <br />
+        <p><span class="w3-tag w3-light-grey">Language:</span> <b>English</b> </p>
+        <p><span class="w3-tag w3-light-grey">Publisher:</span> <b>Penguin Random House India pvt. ltd</b></p>
+        <p><span class="w3-tag w3-light-grey">ISSBN:</span> <b>9780670095421</b></p>
+        <p><span class="w3-tag w3-light-grey">Pages</span> <b>544</b></p>
+        <p><span class="w3-tag w3-light-grey">Description</span>The practical handbook for 
+                                              understanding and winning in the post
+                                              COVID digital age and becomong a 21st Century leader 
+                                              for every enterprise and its leader the digital age is a 
+                                              roller coster ride with...<b>read more</b></p>
+        <p><span class="w3-tag w3-light-grey">e-Version </span> <b style="font-size:medium">Yes</b>   <a class="Tag11">Read Now</a> <a class="Tag12">Download</a> </p> 
+        <br />
+
+        <p class="#" style="font-size:medium"><b>Review</b></p>
+        <p><b>Good to read</b></p>
+        <p>Trust in the lord with all your heart and lean not unto your own undestanding. A very good read, Recommended <b>read more..</b></p>
+           <p><span class="w3-tag w3-light-grey" style="font-size:10px"> Rjesh Dec 2020</span></p>
+
+        <p><b>Good to read</b></p>
+        <p class="#" style="font-size:15px">Trust in the lord with all your heart and lean not unto your own undestanding. A very good read, Recommended <b>read more..</b></p>
+        <p><span class="w3-tag w3-light-grey" style="font-size:10px"> Rjesh Dec 2020</span></p>
+
+        <p><b>Good to read</b></p>
+        <p>Trust in the lord with all your heart and lean not unto your own undestanding. A very good read, Recommended <b>read more..</b></p>
+        <p><span class="w3-tag w3-light-grey" style="font-size:10px"> Rjesh Dec 2020</span></p>
+    </div>
+  </div>
+  
+  <hr>
+
+
+
+
+
+@* <div class="container py-5">
+        <form method="post">
+            <div class="mb-3">
+                <label class="form-label">Author</label>
+                <input type="text" class="form-control" id="name" asp-for="Name" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Title</label>
+                <input type="text" class="form-control" id="displayName" asp-for="DisplayName" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Published Date</label>
+                <input type="text" class="form-control" id="displayName" asp-for="DisplayName" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">ISBN</label>
+                <input type="text" class="form-control" id="displayName" asp-for="DisplayName" />
+            </div>
+
+            <div class="mb-3">
+                <button type="submit" class="btn btn-dark">Submit</button>
+            </div>
+
+        </form>
+    </div>
+</div>  *@

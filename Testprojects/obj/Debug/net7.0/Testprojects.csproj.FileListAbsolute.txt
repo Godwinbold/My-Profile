@@ -1,0 +1,14 @@
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\bin\Debug\net7.0\Testprojects.exe
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\bin\Debug\net7.0\Testprojects.deps.json
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\bin\Debug\net7.0\Testprojects.runtimeconfig.json
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\bin\Debug\net7.0\Testprojects.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\bin\Debug\net7.0\Testprojects.pdb
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\obj\Debug\net7.0\Testprojects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\obj\Debug\net7.0\Testprojects.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\obj\Debug\net7.0\Testprojects.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\obj\Debug\net7.0\Testprojects.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\obj\Debug\net7.0\Testprojects.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\obj\Debug\net7.0\refint\Testprojects.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\obj\Debug\net7.0\Testprojects.pdb
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\obj\Debug\net7.0\Testprojects.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\Testprojects\obj\Debug\net7.0\ref\Testprojects.dll

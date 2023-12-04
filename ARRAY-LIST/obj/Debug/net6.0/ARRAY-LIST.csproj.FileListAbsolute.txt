@@ -1,0 +1,14 @@
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\obj\Debug\net6.0\ARRAY-LIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\obj\Debug\net6.0\ARRAY-LIST.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\obj\Debug\net6.0\ARRAY-LIST.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\obj\Debug\net6.0\ARRAY-LIST.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\bin\Debug\net6.0\ARRAY-LIST.exe
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\bin\Debug\net6.0\ARRAY-LIST.deps.json
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\bin\Debug\net6.0\ARRAY-LIST.runtimeconfig.json
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\bin\Debug\net6.0\ARRAY-LIST.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\bin\Debug\net6.0\ARRAY-LIST.pdb
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\obj\Debug\net6.0\ARRAY-LIST.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\obj\Debug\net6.0\refint\ARRAY-LIST.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\obj\Debug\net6.0\ARRAY-LIST.pdb
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\obj\Debug\net6.0\ARRAY-LIST.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\ARRAY-LIST\obj\Debug\net6.0\ref\ARRAY-LIST.dll

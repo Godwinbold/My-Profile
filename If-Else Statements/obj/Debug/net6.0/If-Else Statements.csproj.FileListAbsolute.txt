@@ -1,0 +1,14 @@
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\bin\Debug\net6.0\If-Else Statements.exe
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\bin\Debug\net6.0\If-Else Statements.deps.json
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\bin\Debug\net6.0\If-Else Statements.runtimeconfig.json
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\bin\Debug\net6.0\If-Else Statements.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\bin\Debug\net6.0\If-Else Statements.pdb
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\obj\Debug\net6.0\If-Else Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\obj\Debug\net6.0\If-Else Statements.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\obj\Debug\net6.0\If-Else Statements.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\obj\Debug\net6.0\If-Else Statements.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\obj\Debug\net6.0\If-Else Statements.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\obj\Debug\net6.0\refint\If-Else Statements.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\obj\Debug\net6.0\If-Else Statements.pdb
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\obj\Debug\net6.0\If-Else Statements.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\If-Else Statements\obj\Debug\net6.0\ref\If-Else Statements.dll

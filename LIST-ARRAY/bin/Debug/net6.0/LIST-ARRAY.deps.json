@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LIST-ARRAY/1.0.0": {
+        "runtime": {
+          "LIST-ARRAY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LIST-ARRAY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
