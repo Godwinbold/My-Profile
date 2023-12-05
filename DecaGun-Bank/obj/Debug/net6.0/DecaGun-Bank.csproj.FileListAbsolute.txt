@@ -1,4 +1,0 @@
-C:\Users\DECAGON\Desktop\Godwin-Decagon\DecaGun-Bank\obj\Debug\net6.0\DecaGun-Bank.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DECAGON\Desktop\Godwin-Decagon\DecaGun-Bank\obj\Debug\net6.0\DecaGun-Bank.AssemblyInfoInputs.cache
-C:\Users\DECAGON\Desktop\Godwin-Decagon\DecaGun-Bank\obj\Debug\net6.0\DecaGun-Bank.AssemblyInfo.cs
-C:\Users\DECAGON\Desktop\Godwin-Decagon\DecaGun-Bank\obj\Debug\net6.0\DecaGun-Bank.csproj.CoreCompileInputs.cache
