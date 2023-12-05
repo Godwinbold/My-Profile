@@ -1,7 +1,0 @@
-C:\Users\DECAGON\Desktop\Godwin-Decagon\Ops\bin\Debug\Ops.exe.config
-C:\Users\DECAGON\Desktop\Godwin-Decagon\Ops\bin\Debug\Ops.exe
-C:\Users\DECAGON\Desktop\Godwin-Decagon\Ops\bin\Debug\Ops.pdb
-C:\Users\DECAGON\Desktop\Godwin-Decagon\Ops\obj\Debug\Ops.csproj.AssemblyReference.cache
-C:\Users\DECAGON\Desktop\Godwin-Decagon\Ops\obj\Debug\Ops.csproj.CoreCompileInputs.cache
-C:\Users\DECAGON\Desktop\Godwin-Decagon\Ops\obj\Debug\Ops.exe
-C:\Users\DECAGON\Desktop\Godwin-Decagon\Ops\obj\Debug\Ops.pdb
